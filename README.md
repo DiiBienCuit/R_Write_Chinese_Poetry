@@ -1,5 +1,5 @@
 
-##Write Chinese Poetry in R
+#Write Chinese Poetry in R
 
 References: 
 
@@ -7,7 +7,7 @@ References:
 * https://r-project.org/nosvn/pandoc/jiebaR.html
 
 
-##Packages used
+#Packages used
 
 
 * jiebaR
